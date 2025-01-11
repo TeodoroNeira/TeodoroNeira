@@ -28,8 +28,6 @@
 <br/>  
 
 
-## Skill Set  
-
 <h2 align="left">Sou familiar com:</h2>
 
 ###
