@@ -56,6 +56,15 @@
 
 <br/>  
 
+<h2 align="left">Curiosidades:</h2>
+
+###
+
+<p align="left">> Provável recordista mundial no grandioso jogo de celular Raffa Moreira Simulator, com uma pontuação de 171<br>> Participei do programa KSCIA, no Kennedy Space Center, na Florida</p>
+
+###
+
+
 
 ## Redes de Contato 
 <div align="center">
@@ -70,13 +79,6 @@
 </a>  
 </div>  
 
-<h2 align="left">Curiosidades:</h2>
-
-###
-
-<p align="left">> Provável recordista mundial no grandioso jogo de celular Raffa Moreira Simulator, com uma pontuação de 171<br>> Participei do programa KSCIA, no Kennedy Space Center, na Florida</p>
-
-###
 
 <br/>  
 
