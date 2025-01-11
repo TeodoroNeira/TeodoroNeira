@@ -69,7 +69,14 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+<h2 align="left">Curiosidades:</h2>
+
+###
+
+<p align="left">> Provável recordista mundial no grandioso jogo de celular Raffa Moreira Simulator, com uma pontuação de 171<br>> Participei do programa KSCIA, no Kennedy Space Center, na Florida</p>
+
+###
 
 <br/>  
 
